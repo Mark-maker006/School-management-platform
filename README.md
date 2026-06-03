@@ -2,6 +2,9 @@
 
 基于 React + TypeScript + Vite 构建的现代化校园管理系统前端应用。
 
+# 预览地址
+## https://mark-maker006.github.io/School-management-platform/
+
 ## 技术栈
 
 - **框架**: React 18
